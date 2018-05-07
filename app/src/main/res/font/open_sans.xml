@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <font
+        android:font="@font/open_sans_bold"
+        tools:targetApi="o" />
+    <font
+        android:font="@font/open_sans_bold_italic"
+        tools:targetApi="o" />
+    <font
+        android:font="@font/open_sans_extra_bold"
+        tools:targetApi="o" />
+    <font
+        android:font="@font/open_sans_extra_bold_italic"
+        tools:targetApi="o" />
+    <font
+        android:font="@font/open_sans_italic"
+        tools:targetApi="o" />
+    <font
+        android:font="@font/open_sans_light"
+        tools:targetApi="o" />
+    <font
+        android:font="@font/open_sans_light_italic"
+        tools:targetApi="o" />
+    <font
+        android:font="@font/open_sans_regular"
+        tools:targetApi="o" />
+    <font
+        android:font="@font/open_sans_semi_bold"
+        tools:targetApi="o" />
+    <font
+        android:font="@font/open_sans_semi_bold_italic"
+        tools:targetApi="o" />
+</font-family>
