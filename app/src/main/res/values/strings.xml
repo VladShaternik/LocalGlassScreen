@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Local Glass &amp; Screen</string>
+
+    <!-- Descriptions of elements -->
+    <string name="main_shower_img_desc">Welcoming image of the shower</string>
+    <string name="title_desc">Company name</string>
+    <string name="subtitle_desc">Area of operation</string>
+    <string name="company_description_desc">Description of what is company doing</string>
+    <string name="project_examples_desc">Project Examples</string>
+    <string name="project_1_desc">Frameless Shower Doors Project</string>
+    <string name="project_2_desc">Glass Railings Project</string>
+    <string name="project_3_desc">Mirrors Project</string>
+    <string name="project_4_desc">Special Project</string>
+    <string name="contact_info_title_desc">Title of the contact block</string>
+    <string name="phone_icon_desc">Emoji which is used as an icon for phone representation</string>
+    <string name="phone_desc">Company phone number</string>
+    <string name="web_icon_desc">Emoji which is used as an icon for website representation</string>
+    <string name="website_desc">Company website</string>
+    <string name="yelp_icon_desc">Yelp Icon</string>
+    <string name="yelp_website_desc">Company Yelp web page</string>
+
+    <!-- Texts -->
+    <string name="company_title">Local Glass &amp; Screen</string>
+    <string name="company_subtitle">Frameless Glass Specialists In Orange County</string>
+    <string name="company_description">In Local Glass &amp; Screen we specialize in frameless &amp;
+        semi-frameless glass shower doors, custom shower enclosures,
+        glass balcony &amp; stairway railings, mirrors (bathroom &amp; closet) and window &amp;
+        door screens.</string>
+    <string name="projects_examples">Project Examples</string>
+    <string name="project_1">Frameless Shower Doors</string>
+    <string name="project_2">Glass Railings</string>
+    <string name="project_3">Mirrors</string>
+    <string name="project_4">Special Projects</string>
+    <string name="contact_info">Contact Us</string>
+    <string name="phone">📞</string>
+    <string name="phone_number">(949) 309-1988</string>
+    <string name="web">🌐</string>
+    <string name="website_link">www.localglassandscreen.com</string>
+    <string name="yelp_link">www.goo.gl/ojxjNs</string>
+
+</resources>
